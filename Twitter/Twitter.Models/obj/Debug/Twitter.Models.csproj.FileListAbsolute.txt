@@ -1,0 +1,5 @@
+C:\Users\ZerefeL\Dropbox\GitHub Repos\TwitterApp\Twitter\Twitter.Models\bin\Debug\Twitter.Models.dll
+C:\Users\ZerefeL\Dropbox\GitHub Repos\TwitterApp\Twitter\Twitter.Models\bin\Debug\Twitter.Models.pdb
+C:\Users\ZerefeL\Dropbox\GitHub Repos\TwitterApp\Twitter\Twitter.Models\obj\Debug\Twitter.Models.csprojResolveAssemblyReference.cache
+C:\Users\ZerefeL\Dropbox\GitHub Repos\TwitterApp\Twitter\Twitter.Models\obj\Debug\Twitter.Models.dll
+C:\Users\ZerefeL\Dropbox\GitHub Repos\TwitterApp\Twitter\Twitter.Models\obj\Debug\Twitter.Models.pdb
